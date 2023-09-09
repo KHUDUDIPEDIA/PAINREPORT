@@ -7,7 +7,7 @@ This personal tracking routine helped me understand my body, helped me reflect o
 FWIW: My Medical team was comprised of a General Practitioner, a Head Injury Specialist (and Renowned researcher), a Neurologist (Neurology professor at a top canadian institution) and one of the countries best Vesibular Physiotherapists.
 I Hope this helps others on their injury recovery journey.
 
-**Disclaimers: **
+**Disclaimers:**
 This app uses opensource scripts and code
 This app is free
 This app does not include support

@@ -8,9 +8,9 @@ FWIW: My Medical team was comprised of a General Practitioner, a Head Injury Spe
 I Hope this helps others on their injury recovery journey.
 
 **Disclaimers: **
-- This app uses opensource scripts and code
-- This app is free
-- This app does not include support
-- This app makes no medical or therapeutic claims- this is a journaling automation tool
-- This app is a hobby project, and intended for individual non-commercial applications
-- **Most importantly**- this app is private as all data originates, resides, and remains on the device its launched on
+This app uses opensource scripts and code
+This app is free
+This app does not include support
+This app makes no medical or therapeutic claims- this is a journaling automation tool
+This app is a hobby project, and intended for individual non-commercial applications
+**Most importantly**- this app is private as all data originates, resides, and remains on the device its launched on

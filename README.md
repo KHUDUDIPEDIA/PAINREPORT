@@ -13,4 +13,4 @@ This app is free
 This app does not include support
 This app makes no medical or therapeutic claims- this is a journaling automation tool
 This app is a hobby project, and intended for individual non-commercial applications
-**Most importantly**- this app is private as all data originates, resides, and remains on the device its launched on
+**Most importantly**- this app is private as all data originates, resides, and remains on the device its launched on.
